@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>teste</title>
+    <title>site teste</title>
   </head>
   <body>
     <p>oi</p>
