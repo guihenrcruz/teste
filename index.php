@@ -4,5 +4,8 @@
   </head>
   <body>
     <p>oi</p>
+    <script>
+      alert("oi");
+    </script>  
   </body>
 </html>
